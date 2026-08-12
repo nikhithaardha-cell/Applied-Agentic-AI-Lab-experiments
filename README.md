@@ -4,7 +4,7 @@
 
 **Course:** Applied Agentic AI  
 **Course Code:** MR23-1CS0436  
-**Year:** III Year B.Tech
+**Year:** IV Year B.Tech
 
 ---
 
